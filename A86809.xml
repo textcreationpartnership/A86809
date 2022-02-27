@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Lord Major, aldermen, and commons of the City of London, in Common-Councell assembled. To the Honourable the House of Commons assembled in High Court of Parliament. With the answer of the House of Commons to the said petition.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86809</idno>
+            <idno type="STC">Wing H3534</idno>
+            <idno type="STC">Thomason E391_6</idno>
+            <idno type="STC">ESTC R201550</idno>
+            <idno type="EEBO-CITATION">99862049</idno>
+            <idno type="PROQUEST">99862049</idno>
+            <idno type="VID">160262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160262)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E391[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Lord Major, aldermen, and commons of the City of London, in Common-Councell assembled. To the Honourable the House of Commons assembled in High Court of Parliament. With the answer of the House of Commons to the said petition.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes, printer to the Honourable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160262:1" rendition="simple:additions"/>
+            <p>The humble PETITION OF THE Lord Major, Aldermen, and Commons of the City of <hi>London,</hi> in Common-Councell Aſſembled.</p>
+            <p>TO THE Honourable the Houſe of Com<g ref="char:EOLhyphen"/>mons aſſembled in High Court Of <hi>PARLIAMENT.</hi> WITH The Anſwer of the Houſe of Com<g ref="char:EOLhyphen"/>mons to the ſaid Petition.</p>
+            <p>Printed by <hi>Richard Cotes,</hi> Printer to the Honourable City of <hi>London,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160262:2"/>
+            <pb n="1" facs="tcp:160262:2"/>
+            <head>TO THE Honourable the Houſe of Commons aſſembled in High Court of <hi>PARLIAMENT.</hi>
+            </head>
+            <head type="sub">The humble Petition of the Lord Major, Alder<g ref="char:EOLhyphen"/>men, and Commons of the City of <hi>London,</hi> in Common-Councell aſſembled.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat as your Petitioners acknowledge the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> to bee the ſupreme Judecature of the Kingdome, from whom the Subjects of this Nation have found ſhelter in danger, &amp; releef in diſtreſſe; So now your Petitioners having (with the whole Kingdome) a great ſhare and intereſt in theſe privi<g ref="char:EOLhyphen"/>ledges, do therefore at this time hum<g ref="char:EOLhyphen"/>bly,
+<pb n="2" facs="tcp:160262:3"/>yet earneſtly preſent theſe their im<g ref="char:EOLhyphen"/>portant deſires to this Honorable Houſe.</p>
+            <p n="1">1 That all Honorable wayes and meanes may bee uſed to prevent the further effuſion and ſhedding of Chri<g ref="char:EOLhyphen"/>ſtian blood, and to that end that all juſt ſatisfaction may bee given to the Ar<g ref="char:EOLhyphen"/>my and all other Souldiers who have adventured their lives for defence of this Parliament and Kingdome, that though the condition of your affaires doe not inable you to give full ſatiſ<g ref="char:EOLhyphen"/>faction at preſent, yet that their Ac<g ref="char:EOLhyphen"/>compts may bee juſted, and put into a certaine way of payment to the qui<g ref="char:EOLhyphen"/>eting of many thouſand diſcontented perſons; which we humbly conceive wil bee much to the glory of God, the ho<g ref="char:EOLhyphen"/>nour of the Parliament, and quiet of the Kingdome.</p>
+            <pb n="3" facs="tcp:160262:3"/>
+            <p n="2">2 That according to our Allegi<g ref="char:EOLhyphen"/>ance, the Covenant and agreement of both Nations, his Majeſties royall per<g ref="char:EOLhyphen"/>ſon may bee preſerved, and ſo diſpo<g ref="char:EOLhyphen"/>ſed of, that the Parliaments of both Kingdomes may have free acceſſe unto him, that thereby a right underſtan<g ref="char:EOLhyphen"/>ding may bee obtained between them; and this tottering Church and King<g ref="char:EOLhyphen"/>dome after all our feares, ſorrowes, and ſufferings, may injoy the bleſſing of a wel-grounded and long deſired Peace, whereby this Kingdome may bee the better inabled to ſend ſpeedy releefe and helpe to miſerable, bleeding <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p n="3">3 That for the better defence and ſecuritie of the Parliament, and City, in theſe tumultuous and troubleſome times, This Honorable Houſe will be pleaſed to renew ſo much of an Ordi<g ref="char:EOLhyphen"/>nance
+<pb n="4" facs="tcp:160262:4"/>of Parliament of the 17. of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> 1645. as concerneth the ray<g ref="char:EOLhyphen"/>ſing, maintaining, and ordering of Hor<g ref="char:EOLhyphen"/>ſes, and power of making ſearches (a Copie whereof is hereunto annexed) whereby the Committee of the <hi>Militia</hi> of <hi>London</hi> &amp; Pariſhes mentioned in the Weekly Bills of Mortalitie, may bee the better inabled to ſuppreſſe all tu<g ref="char:EOLhyphen"/>multuous Aſſemblies, and to prevent any dangers that may happen to the Parliament and Citie. And as this Citie from the beginning of theſe troubles have faithfully adhered to the Parliament, ſo we are reſolved by the bleſſing of God never to deſert the ſame, but with the utmoſt of our lives and eſtates will ſtand and fall, live and die, with the Parliament of <hi>England</hi> according to our Covenant.</p>
+            <p>
+               <hi>And the Petitioners ſhall pray.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:160262:4"/>
+            <head>Die Martis Octavo Junii, 1647.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE Houſe being informed, that the Sheriffes of the Citie of</hi> London, <hi>divers Aldermen and other Citizens of</hi> Lon<g ref="char:EOLhyphen"/>don <hi>were at the doore, they were called in, and Sheriffe</hi> Edmonds <hi>acquainted the Houſe, That they were commanded by my Lord Major, Court of Aldermen &amp; Commons in Common Counſell Aſſembled, to deliver a Petition to this Houſe; the which the Petitioners being withdrawn was read, and likewiſe a Printed Ordinance annexed, of the</hi> 17 <hi>of</hi> January, 1645. <hi>for the rayſing of Horſe for the defence of the Citie of</hi> London, <hi>and for ſearching and apprehending of Papiſts and other ill affected perſons.</hi>
+            </p>
+            <p>
+               <hi>Reſolved, &amp;c.</hi>
+            </p>
+            <p>That an Ordinance bee brought in o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Thurſday</hi> morning next, according to the de<g ref="char:EOLunhyphen"/>ſires of the Petitioners; and it is referred <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mr. Recorder, Mr. <hi>Grimſton,</hi> Mr. <hi>Got,</hi> an Mr. <hi>Hill,</hi> or any two of them, to prepare an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bring in this Ordinance accordingly, and the care of this buſineſſe is more particularly re<g ref="char:EOLhyphen"/>ferred to Mr. <hi>Got.</hi>
+            </p>
+            <p>The Petitioners were again called in, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mr. Speaker by the command of the Houſe expreſſed unto them the true ſenſe this
+<pb facs="tcp:160262:5"/>Houſe has of their conſtant good affections to this Parliament, and that no alterations whatſoever can worke any change in their duty and love, for which hee is to give them the heartieſt Thanks from this Houſe he can expreſſe.</p>
+            <p>He is further commanded to take notice of the Lord Maiors, and Committee of <hi>Militia's</hi> ready complyance with the Order of this Houſe, in ſo ſeaſonable ſending down a very good Guard, for which hee is likewiſe to re<g ref="char:EOLhyphen"/>turn Thankes to the Lord Maior, and the Committee of the <hi>Militia.</hi> Hereby the Houſe underſtands very well, that the Com<g ref="char:EOLhyphen"/>mittee of the <hi>Militia</hi> is very ſenſible of the tumultuous and diſtempered Humors that are now ſtirred, and therefore doubts not but of themſelves (to whom they doe refer it) they will take care that ſuch convenient Guards may be appointed to attend the Hou<g ref="char:EOLhyphen"/>ſes as may preſerve them from any diſtur<g ref="char:EOLhyphen"/>bance or interruptions in their Counſels: As to the requeſt of the Petitioners touching an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ordinance to the purpoſes therein mentio<g ref="char:EOLhyphen"/>ned, they have done ſomething in it and have put it into away for further conſiderati<g ref="char:EOLhyphen"/>on at their next meeting.</p>
+            <closer>
+               <signed>H. Elſynge, <hi>Cler. Parl. D. Com.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
